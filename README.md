@@ -6,8 +6,8 @@ This project analyzes and compares the cost of living across four cities — Tok
 **Team project (BUSI 3100.305, Group 6)** — I was responsible for structuring the dataset, building the weighted value-based ranking methodology, and designing the Excel dashboard and Tableau visualization.
 
 ## What's Included
-- `Living_Cost_Data.xlsx` — Raw and structured cost data across housing, utilities & transportation, food & grocery, and lifestyle categories, with PivotTables, conditional formatting, and sparklines.
-- `Cost_of_Living_Dashboard_.twb` — Interactive Tableau dashboard visualizing cross-city cost trends.
+- `Living Cost Data.xlsx` — Raw and structured cost data across housing, utilities & transportation, food & grocery, and lifestyle categories, with PivotTables, conditional formatting, and sparklines.
+- `Cost of Living Dashboard_.twb` — Interactive Tableau dashboard visualizing cross-city cost trends.
 - `Living_States_Project_Report.pdf` — Full written report, including methodology, findings, and conclusions.
 
 ## Methodology

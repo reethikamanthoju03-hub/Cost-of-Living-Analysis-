@@ -7,7 +7,7 @@ This project analyzes and compares the cost of living across four cities — Tok
 
 ## What's Included
 - `Living Cost Data.xlsx` — Raw and structured cost data across housing, utilities & transportation, food & grocery, and lifestyle categories, with PivotTables, conditional formatting, and sparklines.
-- `Cost of Living Dashboard_.twb` — Interactive Tableau dashboard visualizing cross-city cost trends.
+- `Cost of Living Dashboard.twb` — Interactive Tableau dashboard visualizing cross-city cost trends.
 - `Living_States_Project_Report.pdf` — Full written report, including methodology, findings, and conclusions.
 
 ## Methodology
